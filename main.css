@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(175, 129, 157);
+}
+.container{
+    background-color: rgb(233, 229, 229);
+    padding:20px;
+}
+#guessbtn{
+    background-color:rgb(204, 161, 187);
+}
